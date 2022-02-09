@@ -10,3 +10,5 @@ tags
 !.gitignore
 !.gitkeep
 test/private_fixtures/
+SickZil-Machine-0.1.1-pre0-win64-gpu-eng
+SickZil-Machine-0.1.1-pre0-win64-cpu-eng
